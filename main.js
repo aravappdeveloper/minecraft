@@ -89,7 +89,7 @@ function my_keydown(e){
     }
 
     if(keyPressed == '76'){
-        new_image('light_ground.png');
+        new_image('light_green.png');
         console.log("l");
     }
 
